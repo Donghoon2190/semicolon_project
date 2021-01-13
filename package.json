@@ -1,0 +1,22 @@
+{
+  "name": "semicolon_project",
+  "version": "1.0.0",
+  "description": "Final Project start",
+  "repository": "https://github.com/Donghoon2190/semicolon_project",
+  "author": "DongHoonKang",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/node": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "dotenv": "^8.2.0",
+    "graphql-yoga": "^1.18.3",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "dev": "nodemon --exec babel-node src/server.js"
+  }
+}
