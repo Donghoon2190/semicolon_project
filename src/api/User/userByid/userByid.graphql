@@ -1,4 +1,0 @@
-
-type Query{
-    userByid(id:String!): User!
-}
