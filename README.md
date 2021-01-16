@@ -9,12 +9,13 @@
 - [👌] Search by location
 - [👌] Follow User 
 - [👌] Unfollow User
-- [👌] See user profile
-- [👌] See the full photo
 - [👌] Edit my profile
+- [👌] See user profile
+- [👌] See my profile
 - [👌] Upload a photo
-- [ ] Edit the photo (Delete)
-- [ ] See the feed
-- [ ] Send Direct Message
-- [ ] See room
-- [ ] Receive Message(Real time)
+- [👌] Edit the photo (Delete)
+- [👌] See the feed
+- [👌] Send Direct Message
+- [👌] See rooms
+- [👌] See room 
+- [👌] Receive Message(Realtime)
